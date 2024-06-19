@@ -95,7 +95,7 @@ export default function Header() {
                     <Link to="/about">About Us</Link>
                   </li>
                   <li>
-                    <Link to="/contact">Contact-us</Link>
+                    <Link to="/contact">Contact</Link>
                   </li>
                 </ul>
               </nav>

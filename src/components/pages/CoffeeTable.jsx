@@ -200,6 +200,34 @@ export default function CoffeeTable() {
                   >
                     <a
                       className="lightbox"
+                      href="assets/images/product/table/1C7A1528-view.jpg"
+                      style={{ borderRadius: "10px !important" }}
+                    >
+                      <img
+                        className="shop-zoom-img"
+                        src="assets/images/product/table/1C7A1528-list.jpg"
+                        alt=""
+                        style={{ borderRadius: "4px" }}
+                      />
+                    </a>
+                    <div
+                      className="product-info"
+                      style={{ textAlign: "center" }}
+                    >
+                      <h6 className="pro-code" style={{ marginBottom: "1px" }}>
+                        1C7A1528
+                      </h6>
+                      <span style={{ fontSize: "12px" }}>(Coffee Table)</span>
+                      <h5 className="pro-price">Rs. 99,775</h5>
+                    </div>
+                  </div>
+
+                  <div
+                    className="col-sm-6 col-md-4 shop-grid-img"
+                    style={{ padding: "14px" }}
+                  >
+                    <a
+                      className="lightbox"
                       href="assets/images/product/table/TCT024NS-540.jpg"
                       style={{ borderRadius: "10px !important" }}
                     >
@@ -247,6 +275,34 @@ export default function CoffeeTable() {
                       </h6>
                       <span style={{ fontSize: "12px" }}>(Coffee Table)</span>
                       <h5 className="pro-price">Rs. 42,275</h5>
+                    </div>
+                  </div>
+
+                  <div
+                    className="col-sm-6 col-md-4 shop-grid-img"
+                    style={{ padding: "14px" }}
+                  >
+                    <a
+                      className="lightbox"
+                      href="assets/images/product/table/1C7A1494-view.jpg"
+                      style={{ borderRadius: "10px !important" }}
+                    >
+                      <img
+                        className="shop-zoom-img"
+                        src="assets/images/product/table/1C7A1494-list-2.jpg"
+                        alt=""
+                        style={{ borderRadius: "4px" }}
+                      />
+                    </a>
+                    <div
+                      className="product-info"
+                      style={{ textAlign: "center" }}
+                    >
+                      <h6 className="pro-code" style={{ marginBottom: "1px" }}>
+                        1C7A1494
+                      </h6>
+                      <span style={{ fontSize: "12px" }}>(Coffee Table)</span>
+                      <h5 className="pro-price">Rs. 59,875</h5>
                     </div>
                   </div>
 

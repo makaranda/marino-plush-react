@@ -88,7 +88,7 @@ export default function Header() {
                   </li>
                   <li>
                     <a href="/coffee-table-and-side-table">
-                      Coffee Tables & Side Tables a
+                      Coffee Tables & Side Tables a a
                     </a>
                   </li>
                   <li>

@@ -31,7 +31,7 @@ export default function CoffeeTable() {
                           textTransform: "uppercase",
                         }}
                       >
-                        Coffee Table
+                        Coffee Table 1
                       </h4>
                     </div>
                   </div>
